@@ -67,6 +67,7 @@ section.lead h5 strong {
 }
 section.lead p {
   text-align: left;
+  font-size: 0.8rem;
 }
 
 header {
