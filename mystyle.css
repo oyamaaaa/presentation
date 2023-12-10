@@ -13,7 +13,6 @@
 section {
   background-image: none;
   font-family: 'Noto Sans JP', sans-serif;
-  font-size: 90%;
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
@@ -68,6 +67,7 @@ section.lead h5 strong {
 }
 section.lead p {
   text-align: left;
+  font-size: 90%;
 }
 
 header {
